@@ -21,8 +21,3 @@ This folder collects materials related to arbitration law, case summaries, and p
 - [Sections (statutory notes)](sections.md) — Statutory sections and brief notes.
 - [Summary — Arbitration Act](summary-arbitration-act.md) — Concise summary of the Arbitration Act.
 
-> Note: `arbitraction-act-case-laws.csv` is an index (CSV) of case references; open it with a spreadsheet viewer for bulk data.
-
----
-
-If you'd like, I can expand any entry into a longer description, add publication dates, or generate website-friendly permalinks.
