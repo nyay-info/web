@@ -534,7 +534,7 @@ Add a hidden HTML comment at the end of your blog post code. This isn't visible 
 
 ```html
 <meta name="ai-content-label" content="Synthetically Generated Information">
-<meta name="ai-provenance-url" content="https://nyay.info/POLICY.md">
+<meta name="ai-provenance-url" content="https://nyay.info/POLICY">
 ```
 
 #### **B. For Images (The "10% Overlay")**
@@ -550,7 +550,7 @@ Update your Open Graph (OG) tags so that when your link is shared on LinkedIn or
 
 ```html
 <meta name="ai-content-label" content="Synthetically Generated Information">
-<meta name="ai-provenance-url" content="https://yourblog.com/ai-ethics-policy">
+<meta name="ai-provenance-url" content="https://nyay.info/POLICY">
 
 ```
 
