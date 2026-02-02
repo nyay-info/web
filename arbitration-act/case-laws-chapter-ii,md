@@ -1,0 +1,71 @@
+# Chapter II : Case Laws
+
+Chapter II of the Act (Sections 7–9) is the "Gateway to Arbitration." In 2025 and 2026, the Supreme Court has dramatically simplified these sections to prevent parties from using minor technicalities to block the process.
+
+---
+
+## 1. Section 7: Arbitration Agreement (The "Conduct" Revolution)
+
+Historically, parties argued that if an agreement wasn't signed, it wasn't valid. The latest rulings have moved from **Form** to **Substance**.
+
+* **Glencore International AG v. Shree Ganesh Metals (Aug 2025):** * **The Rule:** A signature is **not** mandatory for a valid arbitration agreement under Section 7.
+* **The Decision:** The SC held that if parties are *consensus ad idem* (of one mind), their **conduct**—such as accepting goods, opening Letters of Credit, or exchanging emails—proves the existence of an agreement.
+* **Impact:** You can no longer "wriggle out" of arbitration by simply claiming you forgot to sign the final contract if you have already started performing the work.
+
+
+* **In Re: Interplay between Arbitration Agreements and Stamp Act (2024):**
+* **The Rule:** An unstamped agreement is **not void**; it is only "inadmissible."
+* **The Decision:** A 7-judge bench ruled that the "existence" of an arbitration agreement (Section 7) is a separate legal concept from the "enforceability" of the main contract.
+
+
+* **ASF Buildtech v. Shapoorji Pallonji (May 2025):**
+* **The Rule:** **Non-signatories** can be bound.
+* **The Decision:** Building on the "Group of Companies" doctrine, the court held that if a parent company or a third party plays a substantive role in negotiating or performing the contract, they are "parties" under Section 7 even if they didn't sign the paper.
+
+
+
+---
+
+## 2. Section 8: Power to Refer Parties to Arbitration
+
+Section 8 is a "mandate" to the Civil Court: if there is an arbitration clause, the court **must** stop the trial and send the parties to arbitration.
+
+* **Lombardi Engineering v. Uttarakhand Jal Vidyut (2024/25):**
+* **The Rule:** Pre-conditions to arbitration (like depositing 7% of the claim amount) must be "constitutional."
+* **The Decision:** The SC struck down "pre-deposit" clauses as a violation of Article 14, ruling that such barriers cannot prevent a party from invoking Section 8.
+
+
+* **Shristi Infrastructure v. Scorpio Engineering (May 2025):**
+* **The Rule:** The "Prima Facie" standard.
+* **The Decision:** Confirmed that at the Section 8 stage, a court should only do a "line-of-sight" check. If there is a dispute about whether the contract was terminated or fulfilled ("Accord and Satisfaction"), the court **must** refer it to the Arbitrator to decide.
+
+
+
+---
+
+## 3. Section 9: Interim Measures by Court
+
+This section allows you to get an "injunction" or "stay" from a court before the Arbitrator is even appointed.
+
+* **Parsoli Motor Works v. BMW India (2025 Trends):**
+* **The Rule:** Section 9 cannot be used to bypass the **Specific Relief Act**.
+* **The Decision:** Courts have reiterated that if a contract is "determinable" (can be cancelled by notice), a Section 9 court cannot force the parties to stay together. It can only grant protection for money or assets.
+
+
+* **Interim Relief in Foreign Arbitrations (Section 2(2) Proviso):**
+* **The Rule:** Even if your arbitration is in London or Singapore, you can still use Section 9 in an Indian court to freeze assets located in India.
+
+
+
+---
+
+### Comparison of Chapter II: Old vs. New (2026 View)
+
+| Element | Old Approach (Pre-2024) | New Approach (2025-2026) |
+| --- | --- | --- |
+| **Signatures** | Strictly required for Section 7. | **Conduct/Performance** is enough (*Glencore*). |
+| **Stamping** | No stamp = No arbitration (*NN Global*). | Unstamped is okay for referral stage (*7-Judge Bench*). |
+| **Non-Signatories** | Rarely bound. | Bound if they were involved in negotiations (*ASF Buildtech*). |
+| **Court Scrutiny** | Deep dive into "Accord & Satisfaction." | **Prima Facie only**; let the Arbitrator decide. |
+
+

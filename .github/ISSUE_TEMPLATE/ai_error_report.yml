@@ -1,0 +1,42 @@
+name: 🤖 AI Hallucination or Accuracy Report
+description: Report a factual error, logic failure, or hallucination in the AI content.
+title: "[AI-ERROR]: "
+labels: ["AI-Grievance", "SGI-Correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting an AI-related error. Per our 2026 AI Ethics Policy, we investigate all reports within 15 days.
+  - type: input
+    id: source_url
+    attributes:
+      label: Content URL / File Path
+      description: Where did you find this AI error?
+      placeholder: "e.g., /docs/legal_summary_v1.md"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Error
+      description: Explain why this AI output is incorrect or a "hallucination."
+      placeholder: "e.g., The AI cited a non-existent case 'State v. AI-Bot (2025)'."
+    validations:
+      required: true
+  - type: dropdown
+    id: error_type
+    attributes:
+      label: Type of AI Error
+      options:
+        - Factual Hallucination (Fake facts/laws)
+        - Logic Failure (Wrong reasoning)
+        - Algorithmic Bias
+        - Missing AI Disclosure Label
+    validations:
+      required: true
+  - type: input
+    id: traceability_hash
+    attributes:
+      label: Digital Fingerprint (Optional)
+      description: If available, provide the metadata hash from the content's footer.
+

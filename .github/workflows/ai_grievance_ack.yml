@@ -1,0 +1,19 @@
+name: AI Grievance Acknowledgement
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  acknowledge:
+    if: contains(github.event.issue.labels.*.name, 'AI-Grievance')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto-comment
+        uses: peter-evans/create-or-update-comment@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            Hello @${{ github.event.issue.user.login }}, 
+            This is an automated acknowledgment. Your report of an AI-related error has been received. 
+            Per our **2026 Compliance Policy**, a human legal editor will review this within **15 days**.
+
