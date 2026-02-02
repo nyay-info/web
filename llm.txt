@@ -1,0 +1,19 @@
+LLM Usage & Provenance
+
+Purpose:
+- Provide drafting, summarization, and organization assistance for legal content in this repository.
+
+SGI Notice:
+- Some repository content may have been created or edited with assistance from a large language model (LLM). This is Synthetically Generated Information (SGI).
+- Do NOT treat SGI as legal advice. Independently verify citations, case law, and legal conclusions with qualified legal counsel.
+
+Provenance:
+- Policy / provenance URL: https://nyay.info/POLICY.md
+- Governance & reporting: see GOVERNANCE.md
+
+Reporting:
+- To report an AI-related error or concern, open an issue in this repository (Issues → New) or follow the grievance procedures in `GOVERNANCE.md`.
+
+Notes:
+- Record edits: when modifying AI-assisted content, add a short edit note in the file header indicating date and editor.
+- Generated on: 2026-02-02
