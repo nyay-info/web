@@ -1,7 +1,5 @@
-```html
-<meta name="ai-content-label" content="Synthetically Generated Information">
-<meta name="ai-provenance-url" content="https://nyay.info/POLICY.md">
-```
+> **AI Content Label:** Synthetically Generated Information  
+> **AI Provenance URL:** https://nyay.info/POLICY.md
 # Arbitration Act materials
 
 This repository includes a dedicated folder of arbitration materials: the Arbitration Act summaries, case-law chapters, templates, and indexes. See the detailed index at [arbitration-act/README.md](arbitration-act/README.md).
